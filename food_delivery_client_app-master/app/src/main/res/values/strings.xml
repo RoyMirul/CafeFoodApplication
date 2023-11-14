@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CafeFoodOrdering</string>
+    <string name="slogan">You order we cook
+    </string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="forgot_pwd"><u>Forgot Password?</u></string>
+    <string name="facebook_app_id">278065246105234</string>
+    <string name="facebook_login_protocol_name">fb278065246105234</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">4e9cdd3703508a0166c0d54d44c24e7b</string>
+    <string name="title_activity_scrolling">About CFO</string>
+    <string name="large_text">
+      "Cafe Food Ordering Application is created for UMP Final Year Project and not for sales"
+
+    </string>
+    <string name="title_activity_tracking_order">Map</string>
+</resources>

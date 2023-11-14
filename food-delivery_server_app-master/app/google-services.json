@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "585469747327",
+    "firebase_url": "https://cafefoodordering-c24ae.firebaseio.com",
+    "project_id": "cafefoodordering-c24ae",
+    "storage_bucket": "cafefoodordering-c24ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585469747327:android:3262c1013ca6a1b9115f4a",
+        "android_client_info": {
+          "package_name": "com.example.amirul.cafefoodordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585469747327-1vl7v36241ki1ijplt23klallo20jfp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amirul.cafefoodordering",
+            "certificate_hash": "ec5465add6f3ce6ace43e537386a71b951cbec35"
+          }
+        },
+        {
+          "client_id": "585469747327-5dc4vnkgj8trmlst0rp7at0j5ooi5s1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB8C2S8nrRuXXLkh5zYSujDBMTS8i3oHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585469747327-5dc4vnkgj8trmlst0rp7at0j5ooi5s1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585469747327:android:ef40f854cb5f29ca115f4a",
+        "android_client_info": {
+          "package_name": "com.example.amirul.cafefoodorderingserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585469747327-5dc4vnkgj8trmlst0rp7at0j5ooi5s1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB8C2S8nrRuXXLkh5zYSujDBMTS8i3oHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585469747327-5dc4vnkgj8trmlst0rp7at0j5ooi5s1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585469747327:android:a9f3ab52ca3e57be115f4a",
+        "android_client_info": {
+          "package_name": "com.example.liew.ideliveryserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585469747327-0chi61um1vr50lthl6m970vghj9jpgmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.liew.ideliveryserver",
+            "certificate_hash": "ec5465add6f3ce6ace43e537386a71b951cbec35"
+          }
+        },
+        {
+          "client_id": "585469747327-5dc4vnkgj8trmlst0rp7at0j5ooi5s1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB8C2S8nrRuXXLkh5zYSujDBMTS8i3oHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585469747327-5dc4vnkgj8trmlst0rp7at0j5ooi5s1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
